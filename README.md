@@ -26,7 +26,7 @@ I am a Class 12 student currently undergoing intensive academic training at **Al
 
 ---
 <p align="center">
-  <img src="https://metrics.lecoq.io/thedarkxh?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&config.timezone=Asia%2FKolkata" alt="GitHub Metrics" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thedarkxh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Samar's GitHub Stats" />
 
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thedarkxh&layout=compact&theme=tokyonight" height="165" />
 </p>
