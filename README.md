@@ -26,10 +26,10 @@ I am a Class 12 student currently undergoing intensive academic training at **Al
 
 ---
 
-## 📊 GitHub Stats
-![Samar's GitHub stats](https://github-readme-stats.vercel.app/api?username=thedarkxh&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thedarkxh&layout=compact&theme=radical)
-
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=thedarkxh&show_icons=true&theme=radical" alt="Samar's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedarkxh&layout=compact&theme=radical" alt="Top Langs" />
+</p>
 ---
 
 ## 📫 How to Reach Me
