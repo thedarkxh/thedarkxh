@@ -25,13 +25,14 @@ I am a Class 12 student currently undergoing intensive academic training at **Al
 - **[Math-Logic-Solver]:** Automating complex calculus problem-solving using symbolic math libraries.
 
 ---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedarkxh&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thedarkxh&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedarkxh&layout=compact&theme=tokyonight" />
-  
-  <br>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thedarkxh&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thedarkxh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Samar's GitHub Stats" />
 </p>
 ---
 
