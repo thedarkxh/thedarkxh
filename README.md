@@ -37,8 +37,11 @@ I am a Class 12 student currently undergoing intensive academic training at **Al
   </div>
 ---
 ### 🚀 Live Projects
+
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://samar-math-logic.streamlit.app/)
+
 **[Math Logic Solver]** - A symbolic computation engine for JEE and EJU calculus.
+
 
 ## 📫 How to Reach Me
 - **LinkedIn:** https://www.linkedin.com/in/samar-maharia/
