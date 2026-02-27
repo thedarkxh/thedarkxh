@@ -25,12 +25,12 @@ I am a Class 12 student currently undergoing intensive academic training at **Al
 - **[Math-Logic-Solver]:** Automating complex calculus problem-solving using symbolic math libraries.
 
 ---
-<h2 align="center">📊 GitHub Metrics</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thedarkxh&theme=tokyonight&hide_border=true" height="170" />
 </div>
-
+<p>
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thedarkxh&layout=compact&theme=tokyonight" height="165" />
 </p>
 ---
