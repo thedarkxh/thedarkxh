@@ -21,7 +21,7 @@ I am a Class 12 student currently undergoing intensive academic training at **Al
 ---
 
 ## 📈 Current Projects (The "Sikar to Japan" Bridge)
-- **[Physics-Sim-Repo]:** A Python project visualizing projectile motion and fluid mechanics concepts from the JEE syllabus.
+- **[Physics-Sim-Repo]:** A Python project visualizing projectile motion and fluid mechanics concepts from the JEE syllabus.(Release for Windows remaining else completed)
 - **[Math-Logic-Solver]:** Automating complex calculus problem-solving using symbolic math libraries.
 
 ---
