@@ -31,7 +31,7 @@ I am a Class 12 student currently undergoing intensive academic training at **Al
   <img src="https://nirzak-streak-stats.vercel.app/?user=thedarkxh&theme=dark&hide_border=false" height="165" />
 <div align="center">
 <p>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thedarkxh&layout=compact&theme=tokyonight" height="165" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thedarkxh&layout=compact&theme=dark" height="165" />
 </p>
   </div>
 ---
