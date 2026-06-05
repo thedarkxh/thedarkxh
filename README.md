@@ -25,15 +25,10 @@ I am a Class 12 student currently undergoing intensive academic training at **Al
 - **[Math-Logic-Solver]:** Automating complex calculus problem-solving using symbolic math libraries.
 
 ---
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=thedarkxh&theme=dark&hide_border=false" height="165" />
-<div align="center">
-<p>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thedarkxh&layout=compact&theme=dark" height="165" />
-</p>
-  </div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=thedarkxh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=thedarkxh&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=thedarkxh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
 ### 🚀 Live Projects
 
