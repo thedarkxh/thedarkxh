@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌌 Samar Aditya (thedarkxh)
+# 🌌 Samar Aditya
 
 **Systems Engineering • Computational Physics • National Athlete**
 
@@ -15,12 +15,12 @@
 </div>
 
 ### 🛰️ Core Directives
-I am a Class 12 student currently undergoing rigorous academic training at **Allen Career Institute, Sikar**. My primary focus is bridging the gap between theoretical physics, low-level systems engineering, and real-world computational applications.
+I am a systems engineering and computational physics researcher currently undergoing rigorous academic training at **Allen Career Institute**. My work focuses on bridging the gap between theoretical physics, low-level systems architecture, and real-world computational applications.
 
-- 🎯 **Academic Targets:** Compiling for **JEE 2027** and the **MEXT Scholarship** (Targeting Tokyo Tech / Kyoto University).
+- 🎯 **Academic Targets:** Compiling for the **MEXT Scholarship** (Targeting Tokyo Institute of Technology / Kyoto University) and **JEE Advanced 2027**.
 - 🔭 **Research Interests:** Pauli Exclusion Principle, Quantum Mechanics, Thermodynamics, and LLM Architecture.
-- 🇯🇵 **Linguistics:** Currently studying Japanese (日本語) to prepare for cultural exchange and undergraduate engineering studies in Japan.
-- 🏅 **Athletics:** National level 10M Air Pistol precision shooter (66th National Shooting Championship).
+- 🇯🇵 **Linguistics:** Japanese (日本語) — Preparing for cultural exchange and undergraduate engineering studies in Japan.
+- 🏅 **Athletics:** National-level 10M Air Pistol precision shooter (66th National Shooting Championship).
 
 ---
 
@@ -48,9 +48,9 @@ I am a Class 12 student currently undergoing rigorous academic training at **All
 
 ---
 
-### 🚀 The "Sikar to Japan" Bridge (Live Projects)
+### 🚀 Featured Engineering Architecture
 
-| Project | Description | Live Link / Status |
+| Project | Description | Deployment Status |
 | :--- | :--- | :--- |
 | **[Math Logic Solver](https://github.com/thedarkxh/math-logic-engine)** | A symbolic computation engine designed to automate complex calculus and algebra problems for JEE and EJU syllabi. | [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://samar-math-logic.streamlit.app/) |
 | **[3D Physics Engine](https://github.com/thedarkxh/Physics-Engine-3D)** | A Python-based computational tool simulating projectile kinematics and fluid mechanics concepts from the JEE syllabus. | 🟢 Windows Release Pending |
@@ -64,8 +64,8 @@ I am a Class 12 student currently undergoing rigorous academic training at **All
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=thedarkxh&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=thedarkxh&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=thedarkxh&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedarkxh&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%" />
 
 <br>
 
@@ -81,5 +81,5 @@ I am a Class 12 student currently undergoing rigorous academic training at **All
 - **Network:** [LinkedIn / samar-maharia](https://www.linkedin.com/in/samar-maharia/)
 
 <div align="center">
-  <sub><i>Initiating Session: Sikar, Rajasthan • Environment: Stable</i></sub>
+  <sub><i>Initiating Session • Environment: Stable • Compiling for MEXT / JEE 2027</i></sub>
 </div>
