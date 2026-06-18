@@ -1,44 +1,85 @@
-# Hi there, I'm Samar! 👋
- 
-### 🎓 Engineering Aspirant | Aspiring MEXT Scholar | JEE Candidate
-I am a Class 12 student currently undergoing intensive academic training at **Allen Career Institute, Sikar**. My work focuses on bridging the gap between competitive engineering fundamentals and real-world computational applications.
+<div align="center">
+
+# 🌌 Samar Aditya (thedarkxh)
+
+**Systems Engineering • Computational Physics • National Athlete**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-thedarkxh.github.io-d97706?style=for-the-badge&logo=github)](https://thedarkxh.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samar_Maharia-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/samar-maharia/)
+[![NRAI](https://img.shields.io/badge/NRAI_Shooter-PSHM2411200901-9a3412?style=for-the-badge&logo=target)]()
+
+*“The best way to predict the future is to create it.”*
 
 ---
 
-## 🚀 About Me
-- 🔭 **Current Focus:** Mastering JEE Physics, Taking part in Cultural Exchange, and Organic Chemistry for JEE (Advanced).
-- 🇯🇵 **Goal:** Pursuing an Undergraduate degree in Engineering in Japan via the **MEXT Scholarship**.
-- 💻 **Tech Interests:** Robotics, AI, Electronics, and Computational Physics.
-- 📚 **Learning:** Japanese (日本語) - currently at an introductory level.
+</div>
+
+### 🛰️ Core Directives
+I am a Class 12 student currently undergoing rigorous academic training at **Allen Career Institute, Sikar**. My primary focus is bridging the gap between theoretical physics, low-level systems engineering, and real-world computational applications.
+
+- 🎯 **Academic Targets:** Compiling for **JEE 2027** and the **MEXT Scholarship** (Targeting Tokyo Tech / Kyoto University).
+- 🔭 **Research Interests:** Pauli Exclusion Principle, Quantum Mechanics, Thermodynamics, and LLM Architecture.
+- 🇯🇵 **Linguistics:** Currently studying Japanese (日本語) to prepare for cultural exchange and undergraduate engineering studies in Japan.
+- 🏅 **Athletics:** National level 10M Air Pistol precision shooter (66th National Shooting Championship).
 
 ---
 
-## 🛠️ Technical Toolkit
-- **Languages:** Python (Data Visualization & Simulations), Java, SQL.
-- **Mathematics:** Differential Equations, Linear Algebra, Coordinate Geometry.
-- **Tools:** Git, Jupyter Notebooks, VS Code, Replit(New to it).
+### 💻 Technical Arsenal
+
+<div align="center">
+  
+`Architecture & Languages`
+<br>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-101010?style=for-the-badge&logo=nasm&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+`Environment & Tools`
+<br>
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+</div>
 
 ---
 
-## 📈 Current Projects (The "Sikar to Japan" Bridge)
-- **[Physics-Sim-Repo]:** A Python project visualizing projectile motion and fluid mechanics concepts from the JEE syllabus.(Release for Windows remaining else completed)
-- **[Math-Logic-Solver]:** Automating complex calculus problem-solving using symbolic math libraries.
+### 🚀 The "Sikar to Japan" Bridge (Live Projects)
+
+| Project | Description | Live Link / Status |
+| :--- | :--- | :--- |
+| **[Math Logic Solver](https://github.com/thedarkxh/math-logic-engine)** | A symbolic computation engine designed to automate complex calculus and algebra problems for JEE and EJU syllabi. | [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://samar-math-logic.streamlit.app/) |
+| **[3D Physics Engine](https://github.com/thedarkxh/Physics-Engine-3D)** | A Python-based computational tool simulating projectile kinematics and fluid mechanics concepts from the JEE syllabus. | 🟢 Windows Release Pending |
+| **[my-news-bot](https://github.com/thedarkxh/my-news-bot)** | A containerized, autonomous data pipeline engineered to fetch and aggregate live news streams within isolated Linux environments. | 🟢 Active |
+| **[Telegram-Meta Bridge](https://github.com/thedarkxh/Telegram-Meta-Bridge)** | An automation pipeline utilizing the Meta API to intercept Telegram feeds and auto-compile them into production-ready Instagram Reels. | 🟢 Active |
+| **[IronVault](https://github.com/thedarkxh/darkest-data-encoder)** | A high-integrity symmetric encryption suite featuring hardware identity locking protocols for low-level data protection. | 🟢 Active |
 
 ---
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=thedarkxh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=thedarkxh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=thedarkxh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 📈 Telemetry & Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=thedarkxh&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=thedarkxh&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com/?user=thedarkxh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
 ---
-### 🚀 Live Projects
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://samar-math-logic.streamlit.app/)
-**[Math Logic Solver]** - A symbolic computation engine for JEE and EJU calculus.
----
+### 📫 Secure Comm-Link
+- **Primary Node:** samar.aditya.jp@gmail.com
+- **Secondary Node:** thedark@null.net
+- **Network:** [LinkedIn / samar-maharia](https://www.linkedin.com/in/samar-maharia/)
 
-## 📫 How to Reach Me
-- **LinkedIn:** https://www.linkedin.com/in/samar-maharia/
-- **Email:** samar.aditya.jp@gmail.com
-- **Email-2:** thedark@null.net
-
-*"The best way to predict the future is to create it."*
+<div align="center">
+  <sub><i>Initiating Session: Sikar, Rajasthan • Environment: Stable</i></sub>
+</div>
