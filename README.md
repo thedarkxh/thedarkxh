@@ -40,8 +40,8 @@ I am a systems engineering and computational physics researcher currently underg
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 </div>
 
@@ -49,13 +49,15 @@ I am a systems engineering and computational physics researcher currently underg
 
 ### 🚀 Featured Engineering Architecture
 
-| Project | Description | Deployment Status |
-| :--- | :--- | :--- |
-| **[Math Logic Solver](https://github.com/thedarkxh/math-logic-engine)** | A symbolic computation engine designed to automate complex calculus and algebra problems for the JEE Advanced syllabus. | [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://samar-math-logic.streamlit.app/) |
-| **[3D Physics Engine](https://github.com/thedarkxh/Physics-Engine-3D)** | A Python-based computational tool simulating projectile kinematics and fluid mechanics concepts from the JEE syllabus. | 🟢 Windows Release Pending |
-| **[my-news-bot](https://github.com/thedarkxh/my-news-bot)** | A containerized, autonomous data pipeline engineered to fetch and aggregate live news streams within isolated Linux environments. | 🟢 Active |
-| **[Telegram-Meta Bridge](https://github.com/thedarkxh/Telegram-Meta-Bridge)** | An automation pipeline utilizing the Meta API to intercept Telegram feeds and auto-compile them into production-ready Instagram Reels. | 🟢 Active |
-| **[IronVault](https://github.com/thedarkxh/darkest-data-encoder)** | A high-integrity symmetric encryption suite featuring hardware identity locking protocols for low-level data protection. | 🟢 Active |
+| Project | Tech Stack | Description | Deployment Status |
+| :--- | :--- | :--- | :--- |
+| **[Orbital Command](https://thedarkxh.github.io/orbital-command/)** | `React` `WebGL` | A 3D Earth tracking engine rendering 10,000+ live satellites with real-time TLE mechanics and pass predictions. | 🟢 Live |
+| **[CBSE Next-Gen Portal](https://thedarkxh.github.io/cbse-mock/)** | `React` `Vite` | A secure, high-performance prototype redesigning the Central Education Board's digital infrastructure and portals. | 🟢 Live |
+| **[Math Logic Solver](https://github.com/thedarkxh/math-logic-engine)** | `Python` `SymPy` | A symbolic computation engine designed to automate complex calculus and algebra for the JEE Advanced syllabus. | [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://samar-math-logic.streamlit.app/) |
+| **[3D Physics Engine](https://github.com/thedarkxh/Physics-Engine-3D)** | `Python` `Math` | A computational tool simulating projectile kinematics and fluid mechanics concepts from the JEE syllabus. | 🟡 Release Pending |
+| **[my-news-bot](https://github.com/thedarkxh/my-news-bot)** | `Docker` `Linux` | A containerized, autonomous data pipeline engineered to fetch and aggregate live news streams in isolated environments. | 🟢 Active |
+| **[Telegram-Meta Bridge](https://github.com/thedarkxh/Telegram-Meta-Bridge)** | `Meta API` `Py` | An automation pipeline intercepting Telegram feeds to auto-compile them into production-ready Instagram Reels. | 🟢 Active |
+| **[IronVault](https://github.com/thedarkxh/darkest-data-encoder)** | `C` `Sec-Logic` | A high-integrity symmetric encryption suite featuring hardware identity locking protocols for low-level data protection. | 🟢 Active |
 
 ---
 
@@ -63,8 +65,8 @@ I am a systems engineering and computational physics researcher currently underg
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=thedarkxh&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedarkxh&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=thedarkxh&theme=tokyonight&hide_border=true&show_icons=true" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedarkxh&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" width="48%" />
 
 <br>
 
