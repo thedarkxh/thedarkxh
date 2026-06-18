@@ -17,9 +17,8 @@
 ### 🛰️ Core Directives
 I am a systems engineering and computational physics researcher currently undergoing rigorous academic training at **Allen Career Institute**. My work focuses on bridging the gap between theoretical physics, low-level systems architecture, and real-world computational applications.
 
-- 🎯 **Academic Targets:** Compiling for the **MEXT Scholarship** (Targeting Tokyo Institute of Technology / Kyoto University) and **JEE Advanced 2027**.
+- 🎯 **Academic Targets:** Compiling for **JEE Advanced 2027** to pursue undergraduate engineering at a premier institute.
 - 🔭 **Research Interests:** Pauli Exclusion Principle, Quantum Mechanics, Thermodynamics, and LLM Architecture.
-- 🇯🇵 **Linguistics:** Japanese (日本語) — Preparing for cultural exchange and undergraduate engineering studies in Japan.
 - 🏅 **Athletics:** National-level 10M Air Pistol precision shooter (66th National Shooting Championship).
 
 ---
@@ -52,7 +51,7 @@ I am a systems engineering and computational physics researcher currently underg
 
 | Project | Description | Deployment Status |
 | :--- | :--- | :--- |
-| **[Math Logic Solver](https://github.com/thedarkxh/math-logic-engine)** | A symbolic computation engine designed to automate complex calculus and algebra problems for JEE and EJU syllabi. | [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://samar-math-logic.streamlit.app/) |
+| **[Math Logic Solver](https://github.com/thedarkxh/math-logic-engine)** | A symbolic computation engine designed to automate complex calculus and algebra problems for the JEE Advanced syllabus. | [![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://samar-math-logic.streamlit.app/) |
 | **[3D Physics Engine](https://github.com/thedarkxh/Physics-Engine-3D)** | A Python-based computational tool simulating projectile kinematics and fluid mechanics concepts from the JEE syllabus. | 🟢 Windows Release Pending |
 | **[my-news-bot](https://github.com/thedarkxh/my-news-bot)** | A containerized, autonomous data pipeline engineered to fetch and aggregate live news streams within isolated Linux environments. | 🟢 Active |
 | **[Telegram-Meta Bridge](https://github.com/thedarkxh/Telegram-Meta-Bridge)** | An automation pipeline utilizing the Meta API to intercept Telegram feeds and auto-compile them into production-ready Instagram Reels. | 🟢 Active |
@@ -81,5 +80,5 @@ I am a systems engineering and computational physics researcher currently underg
 - **Network:** [LinkedIn / samar-maharia](https://www.linkedin.com/in/samar-maharia/)
 
 <div align="center">
-  <sub><i>Initiating Session • Environment: Stable • Compiling for MEXT / JEE 2027</i></sub>
+  <sub><i>Initiating Session • Environment: Stable • Compiling for JEE Advanced 2027</i></sub>
 </div>
